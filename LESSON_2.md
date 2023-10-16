@@ -54,7 +54,7 @@ variable = "max"
 print(variable) # max
 ```
 
-> [!INFO]
+> [!NOTE]
 > Variable names should be **lowercase**, with **words separated by underscores** as necessary to improve readability. This is also called **"snake case"**. 
 >
 >You might be wondering why you would want to start a variable name with a **"_"**, this can be beneficial when there are **reserved key** words like **"class"**. This reserved key word could also make sense in the context of parsing css classes, then we would create a variable _class. 
@@ -98,7 +98,7 @@ print(type(variable))            # str
 
 There are constructor functions for all built-in data types (e.g. `bool()`, `int()`, `float()`).
 
-> [!INFO]
+> [!NOTE]
 > There are more built-in data types than the once mentioned above (e.g **complex numbers** have a numeric data type **complex**). Also datastructures are considered data types, but we will address them later on.
 
 
