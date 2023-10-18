@@ -4,6 +4,8 @@ Table of Content:
 
 1. Lesson 1 - [Introduction and Installation](LESSON_1.md)
 2. Lesson 2 - [Variables, Data Types and Operators](LESSON_2.md)
+
+<!--
 3. Lesson 3 - [Strings and Numbers](LESSON_3.md)
 4. Lesson 4 - [Data structures (List, Set, Tuple and Dictionary)](LESSON_4.md)
 5. Lesson 5 - [Conditionals](LESSON_5.md)
@@ -21,3 +23,4 @@ X. Lesson x - [](LESSON_X.md)
 Extras:
 1. Git - [Version Control / Basics of Git](EXTRA_LESSON_GIT.md)
 2. Docker - [Docker / Container](EXTRA_LESSON_DOCKER.md)
+-->
