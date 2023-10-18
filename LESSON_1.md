@@ -43,25 +43,25 @@ Download the latest version of VScode for your OS (Operating System) [here](http
 Before we proceed to the next lesson, let’s familiarize ourselves with the basics of VScode. When you launch VScode, you’ll be welcomed with a this screen:
 
 <p align="center">
-    <img src="installation/VScode_explainer_1overlay.png" style="padding-top: 10px; padding-bottom: 10px">
+    <img src="installation/VScode_explainer_1.png" style="padding-top: 10px; padding-bottom: 10px">
 </p>
 
 Next, create a folder for our lessons named **"learning_python"**. You can place this on your desktop or any location of your choice :smiley:. Once done, return to VScode and open the newly created folder. Click on the Folder icon located in the **activity bar** on the left; this action will open the **primary sidebar**.
 
 <p align="center">
-    <img src="installation/VScode_explainer_2overlay.png" style="padding-top: 10px; padding-bottom: 10px">
+    <img src="installation/VScode_explainer_2.png" style="padding-top: 10px; padding-bottom: 10px">
 </p>
 
 Next, click on the **Open Folder** button and navigate to the "learning_python" folder that we just created.
 
 <p align="center">
-    <img src="installation/VScode_explainer_3overlay.png" style="padding-top: 10px; padding-bottom: 10px">
+    <img src="installation/VScode_explainer_3.png" style="padding-top: 10px; padding-bottom: 10px">
 </p>
 
 The name of the folder we just opened, “learning_python”, should now appear at the top of the **primary sidebar**.
 
 <p align="center">
-    <img src="installation/VScode_explainer_4overlay.png" style="padding-top: 10px; padding-bottom: 10px">
+    <img src="installation/VScode_explainer_4.png" style="padding-top: 10px; padding-bottom: 10px">
 </p>
 
 Sure, here's your revised text:
@@ -75,13 +75,13 @@ The next step involves creating our first Python file within this folder. There 
 Let's name our first file **lesson_1.py** (Python files end with the `.py` file extension). Upon creating the file, the editor will open. In the status bar at the bottom right, you should see 'Python' (VScode determines the language of your file based on its extension) along with your installed version (in this case, 3.12.0).
 
 <p align="center">
-    <img src="installation/VScode_explainer_5overlay.png" style="padding-top: 10px; padding-bottom: 10px">
+    <img src="installation/VScode_explainer_5.png" style="padding-top: 10px; padding-bottom: 10px">
 </p>
 
 Navigate to the top menu bar and click on "Terminal". From the dropdown menu that appears, select "New Terminal". This action will open the Terminal within the **Panel** at the bottom of the screen. The Terminal will be in the same directory as our folder.
 
 <p align="center">
-    <img src="installation/VScode_explainer_6overlay.png" style="padding-top: 10px; padding-bottom: 10px">
+    <img src="installation/VScode_explainer_6.png" style="padding-top: 10px; padding-bottom: 10px">
 </p>
 
 Sure, here's your revised text:
