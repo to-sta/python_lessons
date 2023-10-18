@@ -30,8 +30,6 @@ python --version
 ```
 This should return your current version (e.g. Python 3.12.0).
 
-Sure, here's your revised text:
-
 We're halfway through the installation process. So, what's next? We need a suitable environment to write and execute our Python code. Generally, there are two types of environments: **Code editors** and **IDEs** (Integrated Development Environments). We definitely want to opt for an IDE, as it provides a more comprehensive experience for us.
 
 A variety of tools are available for Python development, with [VScode](https://code.visualstudio.com/) and [PyCharm](https://www.jetbrains.com/pycharm/) being noteworthy mentions. According to the most recent [Stackoverflow developer survey](https://survey.stackoverflow.co/2023/#integrated-development-environment), **VScode** is the preferred choice for most developers, and it's my personal favorite as well. I particularly appreciate its rich ecosystem of extensions, which we'll delve into later. I strongly recommend installing VScode, although it's not a requirement.
@@ -40,7 +38,7 @@ Download the latest version of VScode for your OS (Operating System) [here](http
 
 ## Add full explaination for VSCode and Python shell
 
-Before we proceed to the next lesson, let’s familiarize ourselves with the basics of VScode. When you launch VScode, you’ll be welcomed with a this screen:
+Before we proceed to the next lesson, let’s familiarize ourselves with the basics of VScode. When you launch VScode, you’ll be welcomed with this screen:
 
 <p align="center">
     <img src="docs/LESSON_1/VScode_explainer_1.png" style="padding-top: 10px; padding-bottom: 10px">
@@ -64,8 +62,6 @@ The name of the folder we just opened, “learning_python”, should now appear 
     <img src="docs/LESSON_1/VScode_explainer_4.png" style="padding-top: 10px; padding-bottom: 10px">
 </p>
 
-Sure, here's your revised text:
-
 The next step involves creating our first Python file within this folder. There are several ways to accomplish this:
 
 * Icons for creating files and folders are located next to your folder name in the view toolbar. (You might need to click or hover over the primary sidebar for these icons to appear.)
@@ -84,8 +80,6 @@ Navigate to the top menu bar and click on "Terminal". From the dropdown menu tha
     <img src="docs/LESSON_1/VScode_explainer_6.png" style="padding-top: 10px; padding-bottom: 10px">
 </p>
 
-Sure, here's your revised text:
-
 In our final step, we will write our first line of Python code, the classic `Hello World`:
 
 ```python
@@ -99,7 +93,7 @@ python lesson_1.py
 ```
 
 <p align="center">
-    <img src="installation/VScode_explainer_7.png" style="padding-top: 10px; padding-bottom: 10px">
+    <img src="docs/LESSON_1/VScode_explainer_7.png" style="padding-top: 10px; padding-bottom: 10px">
 </p>
 
 Python also includes an interactive shell. By typing **"python"** in the terminal, you can start executing Python code directly. To exit the shell, simply use `exit()`.
