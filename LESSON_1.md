@@ -36,7 +36,6 @@ A variety of tools are available for Python development, with [VScode](https://c
 
 Download the latest version of VScode for your OS (Operating System) [here](https://code.visualstudio.com/).
 
-## Add full explaination for VSCode and Python shell
 
 Before we proceed to the next lesson, let’s familiarize ourselves with the basics of VScode. When you launch VScode, you’ll be welcomed with this screen:
 
