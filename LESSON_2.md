@@ -92,19 +92,28 @@ print(variable) # Outputs: max
 
 ## 3. Data Types
 
-**Python** comes with a variety of built-in data types. Let's start with the fundamentals, which can be grouped into categories:
+**Python** comes with a variety of built-in data types. Let's start with the **fundamentals**, which can be grouped into categories:
 
-* Numeric data types
-* String data types
-* Boolean data types
+```mermaid
+graph TD;
+0[Python Data Types] --> 1[Numeric];
+1[Numeric] --> 11[Integer];
+1[Numeric] --> 12[Float];
+0[Python Data Types] --> 2[Boolean];
+0[Python Data Types] --> 3[Sequence Type];
+3[Sequence Type] --> 31[String];
+```
 
 <ins>Numeric data types:</ins>
+
 There are two fundamental numeric data types: the `int` data type to represent integer numbers and the `float` data type to represent floating-point numbers.
 
 <ins>String data type:</ins>
+
 A string is a collection of one or more characters enclosed in single quotes, double quotes, or triple quotes. The corresponding data type in Python is called **"str"**.
 
 <ins>Boolean data type:</ins>
+
 The boolean value can be either `True` or `False`. Numerically, True is equal to **1** and False is equal to **0**. The corresponding data type in Python is called **"bool"**.
 
 We can use the built-in function `type()` to determine the data type of a variable or value. For example, calling `type(5)` would return `<class 'int'>`.
@@ -128,7 +137,7 @@ print(type(variable))            # Outputs: <class 'str'>
 There are constructor functions for all built-in data types (e.g., `bool()`, `int()`, `float()`).
 
 > [!NOTE]
-> There are more built-in data types than those mentioned above (e.g., **complex numbers** have a numeric data type called **complex**). Also, data structures are considered as data types, but we will address them later on.
+> There are many more built-in data types than those mentioned above (e.g., **complex numbers** have a numeric data type called **complex**). Also, data structures are considered as data types, but we will address them later on and expand the graph.
 
 ## 4. Operators
 Operators are used to perform specific operations on variables and values. Python comes with a variety of operators that can be grouped into categories:
